@@ -1,4 +1,4 @@
-### Hi 👋 My name is Yoann JAUFFROY-BUTTAY
+### Hi 👋 My name is Yoann JAUFFROY
 ======================================
 
 Front-end engineer
