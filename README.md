@@ -1,21 +1,23 @@
 # 👋 Bonjour, je suis Yoann Jauffroy
 
-Développeur Frontend senior avec plus de 10 ans d’expérience dans le
-développement d’applications web modernes, robustes et scalables.
+Senior Frontend Engineer avec 15 ans d'expérience sur des applications
+web à fort trafic et fort enjeu produit.
 
-Je suis spécialisé en **React**, **TypeScript** et en architectures front-end
-avancées comme les **micro-frontends** et les **design systems**, avec une
-forte attention portée à la qualité du code, à la maintenabilité et à l’impact
-produit.
+Spécialisé en **React**, **TypeScript** et architectures front-end avancées
+(micro-frontends, design systems). J'aime autant structurer une architecture
+que rester les mains dans le code au quotidien.
+
+🔍 **Actuellement en recherche** d'un poste Senior Frontend Engineer
+en full remote — stack React/TypeScript, environnement produit exigeant.
 
 ---
 
 ## 🧠 Ce que je fais
 
-- Développement et maintenance d’applications front-end à grande échelle
-- Conception d’architectures front propres et évolutives
+- Développement de fonctionnalités critiques sur des applications à grande échelle
+- Conception et mise en œuvre d'architectures front-end propres et évolutives
+- Contribution aux design systems pour garantir cohérence UX et réutilisabilité
 - Collaboration étroite avec les équipes produit, design et backend
-- Souci constant de la qualité, des performances et de l’expérience utilisateur
 - Pair programming, revues de code et partage de bonnes pratiques
 
 ---
@@ -43,10 +45,10 @@ produit.
 
 ## 🌍 Mode de travail
 
-- Orienté produit
-- Habitué au **full remote**
-- Collaboratif et pragmatique
-- Attentif au long terme plutôt qu’aux solutions rapides
+- Orienté produit et qualité long terme
+- Habitué au **full remote** depuis plusieurs années
+- Collaboratif, pragmatique, à l'aise dans des équipes autonomes
+- Pair programming et partage de bonnes pratiques au quotidien
 
 ---
 
